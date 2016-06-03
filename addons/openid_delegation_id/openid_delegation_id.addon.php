@@ -2,7 +2,7 @@
 /* Copyright (C) NAVER <http://www.navercorp.com> */
 
 if(!defined('__XE__'))
-	exit();
+	exit();1
 
 /**
  * @file openid_delegation_id.addon.php
